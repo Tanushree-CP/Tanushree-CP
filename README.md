@@ -1,5 +1,10 @@
 # 💫 About Me:
-Frontend development.<br>Frontend projects using React, JavaScript, and modern UI libraries.<br>Advanced React concepts, frontend best practices, and modern web technologies.<br>tanushreecp415@gmail.com
+<h1 align="center">Hi 👋, I'm Tanushree C P</h1>
+<h3 align="center">Frontend Developer | Building clean UIs with React & modern web technologies</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanushree-c-p-79a49b30b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:tanushreecp415@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
 ## 🌐 Socials:
