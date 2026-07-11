@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanushree-CP&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree-CP&layout=compact" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 **💰 [BudgetWise App](https://github.com/Tanushree-CP/BudgetPlannerApp)** — *2025*
