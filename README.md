@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanushree-c-p-79a49b30b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://tanushree-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
   <a href="mailto:tanushreecp415@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -59,17 +60,28 @@
 
 ### 📌 Featured Projects
 
+**💰 [BudgetWise App](https://github.com/Tanushree-CP/BudgetPlannerApp)** — *2025*
+`React.js` `CSS3` `State Management`
+A full-featured budget tracking app with real-time income/expense management across 100+ transaction categories, plus a data visualization dashboard for monthly spending trends and CSV export with local storage persistence.
+🔗 [Live Demo](https://budget-planner-app-two.vercel.app) | [Code](https://github.com/Tanushree-CP/BudgetPlannerApp)
+
+**📋 [Job Application Tracker](https://github.com/Tanushree-CP/job-application-tracker)** — *2025*
+`React.js` `Bootstrap` `Local Storage`
+A Kanban-style tool to track job applications across 4 stages (Applied, Interview, Offer, Rejected), with search/filter to manage 50+ applications and local storage persistence.
+🔗 [Live Demo](https://job-application-tracker-five-chi.vercel.app) | [Code](https://github.com/Tanushree-CP/job-application-tracker)
+
+**🌐 [Personal Portfolio Website](https://github.com/Tanushree-CP/tanushree-portfolio)** — *2025*
+`React.js` `CSS3` `React Icons`
+A fully responsive portfolio with 6 sections, smooth scroll animations, CSS3 skill-bar fills, color transitions, and scroll reveal effects — 100% responsive across 4+ screen sizes.
+🔗 [Live Demo](https://tanushree-portfolio-eight.vercel.app) | [Code](https://github.com/Tanushree-CP/tanushree-portfolio)
+
 **🛡️ Cyber Bullying Detection** — *Jan 2025 – May 2025*
 `Python` `Machine Learning`
 Built an AI/ML-based system to detect harmful or abusive content online, applying data structures and algorithmic logic to classify text and protect users from digital harassment.
-🔗 *(Add GitHub repo link here once uploaded)*
 
 **🌾 Crop Yield Prediction** — *Jan 2024 – Apr 2024*
 `Python` `Machine Learning`
 Developed a machine learning model analyzing soil, weather, and crop data to predict yield, improving estimation accuracy to support farmer decision-making.
-🔗 *(Add GitHub repo link here once uploaded)*
-
-> 💡 Tip: Rename repos like `Project`, `New_Project`, `Student` to specific names (e.g. `cyber-bullying-detection`, `crop-yield-prediction`) and add a short description in each repo's "About" settings — this makes your profile much easier for recruiters to scan.
 
 ---
 
